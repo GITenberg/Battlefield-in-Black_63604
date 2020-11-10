@@ -1,0 +1,25 @@
+_repo: Battlefield-in-Black_63604
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whittington, George A.
+    gutenberg_agent_id: '52361'
+    url: http://www.gutenberg.org/2009/agents/52361
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- GITenberg
+title: Battlefield in Black
+url: http://www.gutenberg.org/ebooks/63604
